@@ -1,7 +1,7 @@
 #  Isabel Dumas
 
 **Développeuse Web & Data Scientist**  
- Basée à Pyrennes Atlantiques (64) | Ouverte aux opportunités à **Paris**, **Pau** ou en **télétravail**  
+ Basée à Pyrénées-Atlantiques (64) | Ouverte aux opportunités à **Paris**, **Pau** ou en **télétravail**  
  isa.dumas64@gmail.com|  [LinkedIn – Isabel64450](https://www.linkedin.com/in/Isabel64450)
 
 ---
