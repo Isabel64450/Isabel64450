@@ -26,7 +26,7 @@ Passionnée par la **programmation**, l’**analyse de données** et le **dével
 ###  Développement Web Full Stack
 - **Front-end** : HTML5, CSS3, JavaScript, React
 - **Back-end** : Node.js, Express.js, API REST
-- **Base de données** : MySQL
+- **Base de données** : MySQL, mongoDB
 - **Outils** : Git, GitHub, VS Code, Postman
 
 ---
