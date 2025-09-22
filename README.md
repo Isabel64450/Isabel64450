@@ -10,7 +10,9 @@
 
 Actuellement en formation de **Développeur Web Full Stack** (Groupe AFEC – mars à novembre 2025) :
 
-- et d’une **alternance de 18 mois en tant que Concepteur Développeur d’Applications (CDA)** à partir du **17 novembre 2025**.
+Je suis en recherche de:
+
+- Une **alternance de 18 mois en tant que Concepteur Développeur d’Applications (CDA)** à partir du **17 novembre 2025**.
 
 Passionnée par la **programmation**, l’**analyse de données** et le **développement d’applications web complètes**, je suis déterminée à mettre mes compétences au service de projets concrets tout en continuant à apprendre dans un environnement dynamique et stimulant.
 
