@@ -8,7 +8,7 @@
 
 ##  À propos de moi
 
-Actuellement en formation de **Développeur Web Full Stack** (Groupe AFEC – mars à décembre 2025) :
+Actuellement en formation de Concepteur Développeur d'Applications (Groupe AFPA – janvier à décembre 2026) :
 
 
 ---
